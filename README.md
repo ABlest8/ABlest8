@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ABlest8
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning C#
-- 📫 How to reach me, please don't...
+- 👀 I’m interested in AWS
+- 🌱 I’m currently learning C#/Python
+- 📫 How to reach me..
 
 <!---
 ABlest8/ABlest8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
