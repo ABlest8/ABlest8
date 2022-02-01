@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ABlest8
-- 👀 I’m interested in AWS
+- 👀 I’m interested in AWS/DevOps
 - 🌱 I’m currently learning C#/Python
 - 📫 How to reach me..
 
