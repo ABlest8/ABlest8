@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABlest8
 - 👀 I’m interested in AWS/DevOps
-- 🌱 I’m currently learning C#/Python
+- 🌱 I’m currently learning AWS/Java
 - 📫 How to reach me..
 
 <!---
