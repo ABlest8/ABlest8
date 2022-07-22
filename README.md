@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ABlest8
+- 👋 Hi, I’m @ABlest8, currently rebuilding my GitHub
 - 👀 I’m interested in AWS/DevOps
-- 🌱 I’m currently learning AWS/Java
+- 🌱 I’m currently learning DevOps Tools
 - 📫 How to reach me..
 
 <!---
